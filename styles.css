@@ -29,7 +29,7 @@ body {
 .container input {
   width: 100%;
   height: 50px;
-  border: 1px solid #494eea;
+  border: 1px solid #004c4c;
   outline: 0;
   padding: 10px;
   margin: 10px 0 20px;
@@ -39,7 +39,7 @@ body {
 .container button {
   width: 100%;
   height: 50px;
-  background: #494eea;
+  background: #004c4c;
   color: #fff;
   border: 0;
   outline: 0;
